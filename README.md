@@ -48,5 +48,5 @@ Market Data Platform allows users to **upload valuable datasets**, which are the
 
 ---
 
-## 📁 Folder Structure
+
 
